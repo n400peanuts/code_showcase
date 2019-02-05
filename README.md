@@ -1,7 +1,5 @@
 # code_showcase
-This is a sample of my codying projects done in R:
-**[Navigate to the Rmarkdown notebook](https://github.com/n400peanuts/code_showcase/blob/master/learning_routine_analysis.md)**
-
+This is a sample of my codying projects done in R and Python.
 
 ### Instructed and Uninstructed learning routines of new words
 These are two distinct learning routines to learn new words based on visual hebbian learning. 
@@ -22,3 +20,5 @@ Here are the learning trajectories of 14 volunteers that participated in the ins
 <p align="center">
   <img width="460" height="400" src="https://github.com/n400peanuts/code_showcase/blob/master/inlearningTrajectories.jpg">
 </p>
+
+Here you can find the code for the visualization of the data: **[Navigate to the Rmarkdown notebook](https://github.com/n400peanuts/code_showcase/blob/master/learning_routine_analysis.md)**
