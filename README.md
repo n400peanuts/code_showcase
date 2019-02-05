@@ -10,7 +10,7 @@ Here are the learning trajectories of 14 volunteers that participated in the uni
 
 ![Learning trajectory of participants in the uninstructed learning](unlearningTrajectories.jpg)
 
-In the Instructed learning instead volunteers are exposed only to the strings of letters that are words. The task is to write down with the keyboard every word visually presented to the screen as soon as possible. Words are repeated several times for 6 blocks in order to ensure learning. The task is really easy, volunteers get the task right almost istantly as you can see from the graph below.
+In the Instructed learning instead volunteers are exposed only to the strings of letters that are words. The task is to write down with the keyboard every word visually presented to the screen. As soon as the volunteer writes the word, every letter is displayed on the screen like a typing game. Words are repeated several times for 6 blocks in order to ensure learning. The task is really easy, volunteers get the task right almost istantly as you can see from the graph below.
 
 Here are the learning trajectories of 14 volunteers that participated in the instructed learning. Accuracy is aggregated by blocks and indeed is really high:
 
