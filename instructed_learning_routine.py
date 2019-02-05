@@ -1,6 +1,8 @@
-#       Supervised learning method - updated on 09/10/2017
-#In this exp the participant have to copy the word shown on the monitor.
-#------Only accuracy is collected
+#       Instructed learning routine - Eva Viviani PhD - Languge learning and reading lab @ SISSA
+#                  This experiment runs on Psychopy
+#This is a typing game in which the participant have to copy the word displayed on the monitor.
+#Accuracy and RTs are stored in a file.txt
+
 #------Keyboard is used to type down the word
 #------Feedback given 
 
@@ -12,6 +14,7 @@ import datetime
 #--------------------------------------------------------------------------#
 #                               DEMOGRAPHICS                               #
 #--------------------------------------------------------------------------#
+#User GUI for storing info about subjects
 def demographics():
     global Subj, age, gender, handedness, session, list
     myDlg = gui.Dlg(title="Info")
@@ -117,6 +120,7 @@ def arrivederci(testo):
     win.flip()
     return event.waitKeys(keyList = ['space']) #wait button press
 
+#presentation of the word
 def trial(t1):
     global cross, word, rt
     word.setText(t1)
@@ -133,6 +137,7 @@ def trial(t1):
             core.quit()
         return    
 
+    #typing task
 def printKeys(t1):
     global myString, K, letter, rt, wholeWord, timefirstButton
     myString = ''
