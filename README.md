@@ -15,5 +15,5 @@ In the Instructed learning instead volunteers are exposed only to the strings of
 Here are the learning trajectories of 14 volunteers that participated in the instructed learning. Accuracy is aggregated by blocks.
 
 <p align="center">
-<img width="100" height="100" src="https://github.com/n400peanuts/code_showcase/blob/master/inlearningTrajectories.jpg/100/100"> </p>
+<img width="500" height="500" src="https://github.com/n400peanuts/code_showcase/blob/master/inlearningTrajectories.jpg/500/500"> </p>
 
