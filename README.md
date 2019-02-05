@@ -5,8 +5,9 @@ This is a sample of my codying projects done in R:
 
 ### Instructed and Uninstructed learning routines of new words
 These are two distinct learning routines to learn new words based on visual hebbian learning. 
-**[Navigate to the Python script of uninstructed learning](https://github.com/n400peanuts/code_showcase/blob/master/uninstructed_learning_routine.py)**
-**[Navigate to the Python script of instructed learning](https://github.com/n400peanuts/code_showcase/blob/master/instructed_learning_routine.py)**
+1. uninstructed learning: **[Navigate to the Python script of uninstructed learning](https://github.com/n400peanuts/code_showcase/blob/master/uninstructed_learning_routine.py)**
+
+2. instructed learning: **[Navigate to the Python script of instructed learning](https://github.com/n400peanuts/code_showcase/blob/master/instructed_learning_routine.py)**
 
 In the uninstructed learning a volunteer has to learn 50 new meaningless strings of letters visually presented on the screen (e.g. 'catampo'). The task is to disentagle the new words from random distractors pressing the button 'yes' everytime he thinks that is encountering a word, and 'no' everytime he thinks that instead he's looking at a distractor. Everytime the guess is correct, he receives a visual feedback that consists in the correct word coloured in green, otherwise in red. At the beginning the behaviour of the volunteer is almost at chance, however in the following blocks he menages to get the task right, remembering his correct choices. Notably, he reaches a plateau around the 10th block.
 
