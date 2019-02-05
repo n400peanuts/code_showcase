@@ -1,4 +1,4 @@
-Analysis of the learning routines
+Visualization of the learning routines
 ================
 
 ``` r
